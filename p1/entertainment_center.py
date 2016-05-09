@@ -45,7 +45,8 @@ les_miserables = media.Movie("Les Miserables",
                              "PG-13")
 
 batman_begins = media.Movie("Batman Begins",
-                            "Bruce Wayne dedicates himself to fight injustice in Gotham",
+                            "Bruce Wayne dedicates himself to fight injustice "
+                            "in Gotham",
                             "https://upload.wikimedia.org/wikipedia/en/a/af/"
                             "Batman_Begins_Poster.jpg",
                             "https://www.youtube.com/watch?v=dYYRjVof6TU",
