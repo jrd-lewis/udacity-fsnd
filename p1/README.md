@@ -12,4 +12,4 @@ This project dynamically builds a website with my favorite movies via Python. Th
    - Extracts its contents to your computer
    - Open ```entertainment_center.py``` in IDLE.
    - Press ```F5``` or select ```Run Module``` in the Run menu to run the project.
-* OR click [this](http://jslewis90.github.io/udacity-fsnd/p1) link for a live version.
+* OR click [this](http://jslewis90.github.io/udacity-fsnd/p1/fresh_tomatoes.html) link for a live version.
